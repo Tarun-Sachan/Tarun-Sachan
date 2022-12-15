@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Billing System**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **tarunsachan@hotmail.com**
 
