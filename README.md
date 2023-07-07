@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-sachan&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-sachan" /> </p>
 
-- 🔭 I’m currently working on **Resume Builder React app**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **ReactJS**
 
