@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN WhatsApp Clone**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **tarunsachan@hotmail.com**
 
