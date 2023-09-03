@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-sachan&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-sachan" /> </p>
 
-- 🔭 I’m currently working on **MERN LinkedIn like App**
+- 🔭 I’m currently working on **MERN Shopping App**
 
 - 🌱 I’m currently learning **NodeJS**
 
